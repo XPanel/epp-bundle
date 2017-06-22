@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+
+<container xmlns="http://symfony.com/schema/dic/services"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
+
+    <parameters>
+        <parameter key="xpanel_epp.class">Xpanel\Bundle\EppBundle\Utils\Epp</parameter>
+    </parameters>
+
+    <services>
+        <service id="xpanel_epp" class="%xpanel_epp.class%">
+        </service>
+    </services>
+
+</container>
