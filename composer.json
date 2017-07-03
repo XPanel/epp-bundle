@@ -1,7 +1,7 @@
 {
     "name": "xpanel/epp-bundle",
     "type": "symfony-bundle",
-    "description": "A Symfony3 Bundle to wrap the EPP connection functionality in a more classy way.",
+    "description": "A Symfony Bundle to wrap the EPP connection functionality.",
     "keywords": ["epp", "ssl"],
     "homepage": "https://github.com/XPanel/EPP-Bundle",
     "license": "MIT",
@@ -14,10 +14,11 @@
         }
     ],
     "require": {
-        "php": ">=5.6.30",
-        "symfony/dependency-injection": "*",
-        "symfony/http-kernel": "*",
-        "symfony/symfony": "^3.3"
+        "php": ">=5.5.9",
+        "symfony/swiftmailer-bundle": "^2.6",
+        "doctrine/orm": "^2.5",
+        "symfony/symfony": "^3.3",
+        "twig/twig": "^2.4",
     },
     "autoload": {
         "psr-4": { "Xpanel\\Bundle\\EppBundle\\": "" }
