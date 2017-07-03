@@ -14,10 +14,10 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
-        "symfony/swiftmailer-bundle": "^2.6",
-        "doctrine/orm": "^2.5",
+        "php": ">=7.0.20",
         "symfony/symfony": "^3.3",
+        "symfony/swiftmailer-bundle": "^3.0",
+        "doctrine/orm": "^2.5",        
         "twig/twig": "^2.4"
     },
     "autoload": {
