@@ -15,9 +15,7 @@
     ],
     "require": {
         "php": ">=7.1.10",
-        "symfony/symfony": "^3.3.10",
-        "doctrine/orm": "^2.5.11",        
-        "twig/twig": "^2.4.4"
+        "symfony/framework-bundle": "^3.3"
     },
     "autoload": {
         "psr-4": { "Xpanel\\Bundle\\EppBundle\\": "" }
