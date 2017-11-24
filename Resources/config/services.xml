@@ -5,7 +5,7 @@
     xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
 
     <services>
-        <service id="xpanel_epp" class="Xpanel\Bundle\EppBundle\Utils\Epp">
-        </service>
+    	<defaults autowire="true" autoconfigure="true" public="true" />
+        <service id="xpanel_epp" class="Xpanel\Bundle\EppBundle\Utils\Epp" />
     </services>
 </container>
