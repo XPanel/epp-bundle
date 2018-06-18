@@ -1,6 +1,6 @@
 # EppBundle
 
-A Symfony3 Bundle to wrap the EPP connection functionality in a more "classy" way.
+A Symfony Bundle to wrap the EPP connection functionality in a more "classy" way.
 
 [![Latest Stable Version](https://poser.pugx.org/xpanel/epp-bundle/v/stable)](https://packagist.org/packages/xpanel/epp-bundle) [![Total Downloads](https://poser.pugx.org/xpanel/epp-bundle/downloads)](https://packagist.org/packages/xpanel/epp-bundle) [![Latest Unstable Version](https://poser.pugx.org/xpanel/epp-bundle/v/unstable)](https://packagist.org/packages/xpanel/epp-bundle) [![License](https://poser.pugx.org/xpanel/epp-bundle/license)](https://packagist.org/packages/xpanel/epp-bundle) [![Monthly Downloads](https://poser.pugx.org/xpanel/epp-bundle/d/monthly)](https://packagist.org/packages/xpanel/epp-bundle) [![Daily Downloads](https://poser.pugx.org/xpanel/epp-bundle/d/daily)](https://packagist.org/packages/xpanel/epp-bundle) [![composer.lock](https://poser.pugx.org/xpanel/epp-bundle/composerlock)](https://packagist.org/packages/xpanel/epp-bundle) 
 
